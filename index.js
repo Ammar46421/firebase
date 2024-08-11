@@ -102,5 +102,5 @@ const firebaseConfig = {
     }
   };
   
-  signup_btn.addEventListener("click", createUser);
+  signup_btn.addEventListener("click", createUser)
   signin_btn.addEventListener("click", signInUser);
